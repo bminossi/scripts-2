@@ -1,2 +1,14 @@
-./content/*/.git/
+# find . -name .git | grep -v '\./\.git' | xargs -n1 -I {} echo {}/
+./fingerprint/TideFinger/.git/
+./fingerprint/CORStest/.git/
+./fingerprint/CMSeeK/.git/
 ./code-audit/MySQLMonitor/.git/
+./content/ihoneyBakFileScan/.git/
+./content/LinkFinder/.git/
+./content/scan-BBScan/.git/
+./content/BBScan/.git/
+./content/okadminfinder3/.git/
+./subdomain/wydomain/.git/
+./subdomain/OneForAll/.git/
+./subdomain/subDomainsBrute/.git/
+./subdomain/massdns/.git/
