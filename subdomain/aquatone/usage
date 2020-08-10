@@ -1,2 +1,0 @@
-cat domains.txt | ./aquatone
-python -m http.server 8888
