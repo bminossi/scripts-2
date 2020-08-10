@@ -1,3 +1,2 @@
-**/.git/
-./content/**/.git/
+./content/*/.git/
 ./code-audit/MySQLMonitor/.git/
